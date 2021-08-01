@@ -1,0 +1,6 @@
+D:\angular 10\Spro\.vscode
+
+
+
+
+D:\angular 10\Opencv>python color_detection.py -i pic1.jpg
